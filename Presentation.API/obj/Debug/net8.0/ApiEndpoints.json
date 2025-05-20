@@ -1,0 +1,106 @@
+[
+  {
+    "ContainingType": "Presentation.API.Controllers.EstudianteMateriasController",
+    "Method": "RegistrarCreditos",
+    "RelativePath": "api/EstudianteMaterias",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "Domain.API.DTOs.EstudianteMateria.RegistrarCreditosDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.API.Controllers.EstudiantesController",
+    "Method": "CrearEstudiante",
+    "RelativePath": "api/Estudiantes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "Domain.API.DTOs.Estudiantes.CrearEstudianteDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.API.Controllers.EstudiantesController",
+    "Method": "getCourseMates",
+    "RelativePath": "api/Estudiantes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.API.Controllers.ProfesorMateriasController",
+    "Method": "RegistrarClases",
+    "RelativePath": "api/ProfesorMaterias",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "entity",
+        "Type": "Domain.API.DTOs.MateriasProfesorDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.API.Controllers.ProfesorMateriasController",
+    "Method": "MostrarTodosRegistros",
+    "RelativePath": "api/ProfesorMaterias",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.API.Controllers.ProfesorMateriasController",
+    "Method": "MostrarTodosEstudiantes",
+    "RelativePath": "api/ProfesorMaterias/Estudiantes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.API.Controllers.ProfesorMateriasController",
+    "Method": "MostrarTodasMaterias",
+    "RelativePath": "api/ProfesorMaterias/Materias",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Presentation.API.Controllers.ProfesorMateriasController",
+    "Method": "MostrarTodosProfesores",
+    "RelativePath": "api/ProfesorMaterias/Profesores",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

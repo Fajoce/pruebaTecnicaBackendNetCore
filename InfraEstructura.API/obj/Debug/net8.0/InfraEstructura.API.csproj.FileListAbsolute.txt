@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\InfraEstructura.API\bin\Debug\net8.0\InfraEstructura.API.deps.json
+C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\InfraEstructura.API\bin\Debug\net8.0\InfraEstructura.API.dll
+C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\InfraEstructura.API\bin\Debug\net8.0\InfraEstructura.API.pdb
+C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\InfraEstructura.API\obj\Debug\net8.0\InfraEstructura.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\InfraEstructura.API\obj\Debug\net8.0\InfraEstructura.API.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\InfraEstructura.API\obj\Debug\net8.0\InfraEstructura.API.AssemblyInfo.cs
+C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\InfraEstructura.API\obj\Debug\net8.0\InfraEstructura.API.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\InfraEstructura.API\obj\Debug\net8.0\InfraEstructura.API.dll
+C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\InfraEstructura.API\obj\Debug\net8.0\refint\InfraEstructura.API.dll
+C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\InfraEstructura.API\obj\Debug\net8.0\InfraEstructura.API.pdb
+C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\InfraEstructura.API\obj\Debug\net8.0\ref\InfraEstructura.API.dll
+C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\InfraEstructura.API\obj\Debug\net8.0\InfraEstructura.API.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\InfraEstructura.API\bin\Debug\net8.0\Domain.API.dll
+C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\InfraEstructura.API\bin\Debug\net8.0\Domain.API.pdb
+C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\InfraEstructura.API\obj\Debug\net8.0\InfraEst.7179014C.Up2Date

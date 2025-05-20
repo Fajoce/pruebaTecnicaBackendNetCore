@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA785BC-8C98-4C56-8970-358B12B6C048}|Presentation.API\\Presentation.API.csproj|c:\\users\\user\\source\\repos\\interrapidisimotechnicaltest\\presentation.api\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA785BC-8C98-4C56-8970-358B12B6C048}|Presentation.API\\Presentation.API.csproj|solutionrelative:presentation.api\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68467B00-3EAC-4C2D-B90A-47E581B72F96}|Application.API\\Application.API.csproj|c:\\users\\user\\source\\repos\\interrapidisimotechnicaltest\\application.api\\services\\estudiantes\\estudianteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68467B00-3EAC-4C2D-B90A-47E581B72F96}|Application.API\\Application.API.csproj|solutionrelative:application.api\\services\\estudiantes\\estudianteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{646EE8C8-1BE2-4D1D-ADD9-B45EED9CAFD5}|Domain.API\\Domain.API.csproj|c:\\users\\user\\source\\repos\\interrapidisimotechnicaltest\\domain.api\\repositorios\\estudiantes\\iestudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{646EE8C8-1BE2-4D1D-ADD9-B45EED9CAFD5}|Domain.API\\Domain.API.csproj|solutionrelative:domain.api\\repositorios\\estudiantes\\iestudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEstudianteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Domain.API\\Repositorios\\Estudiantes\\IEstudianteRepository.cs",
+              "RelativeDocumentMoniker": "Domain.API\\Repositorios\\Estudiantes\\IEstudianteRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Domain.API\\Repositorios\\Estudiantes\\IEstudianteRepository.cs",
+              "RelativeToolTip": "Domain.API\\Repositorios\\Estudiantes\\IEstudianteRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:31:06.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstudiantesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Presentation.API\\Controllers\\EstudiantesController.cs",
+              "RelativeDocumentMoniker": "Presentation.API\\Controllers\\EstudiantesController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Presentation.API\\Controllers\\EstudiantesController.cs",
+              "RelativeToolTip": "Presentation.API\\Controllers\\EstudiantesController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:25:07.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EstudianteService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Application.API\\Services\\Estudiantes\\EstudianteService.cs",
+              "RelativeDocumentMoniker": "Application.API\\Services\\Estudiantes\\EstudianteService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Application.API\\Services\\Estudiantes\\EstudianteService.cs",
+              "RelativeToolTip": "Application.API\\Services\\Estudiantes\\EstudianteService.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAvwCYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T03:20:08.93Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
