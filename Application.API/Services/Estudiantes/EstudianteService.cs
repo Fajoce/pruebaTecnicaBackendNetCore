@@ -1,4 +1,6 @@
-﻿using Domain.API.DTOs;
+﻿using Application.API.Extensions;
+using Application.API.SpecificationService;
+using Domain.API.DTOs;
 using Domain.API.DTOs.Estudiantes;
 using Domain.API.Entities;
 using Domain.API.Repositorios.Estudiantes;
@@ -37,13 +39,16 @@ namespace Application.API.Services.Estudiantes
 
         public async Task<IEnumerable<VerNombresEstudiantesDTO>> GetEstudiantesPorMateria(int estudianteId)
         {
+            var spec = new EstudiantesMismaClasePorIdISpecification(estudianteId);
             // Obtener IDs de materias del estudiante
             var materiasDelEstudiante = await(
                 from em in _context.EstudianteMateria
-                where em.EstudianteID == estudianteId
+                .ApplySpecification(spec)
+               // where em.EstudianteID == estudianteId
                 select em.MateriaID
             ).ToListAsync();
 
+            //Early Return
             if (!materiasDelEstudiante.Any())
                 return Enumerable.Empty<VerNombresEstudiantesDTO>();
 
