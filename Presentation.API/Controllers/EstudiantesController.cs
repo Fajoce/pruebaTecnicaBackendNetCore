@@ -1,4 +1,5 @@
 ﻿using Domain.API.DTOs.Estudiantes;
+using Domain.API.ExceptionHandlers;
 using Domain.API.Repositorios.Estudiantes;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -21,7 +22,7 @@ namespace Presentation.API.Controllers
             var list = await _repo.GetEstudiantesPorMateria(id);
             if(list == null || !list.Any())
             {
-                return NotFound("No hay estudiantes asignados a esta materia");
+                throw new NotFoundException("No hay estudiantes asignados a esta materia");
             }
             return Ok(list);
         }
@@ -31,7 +32,7 @@ namespace Presentation.API.Controllers
             var result = _repo.CrearEstudiante(entity);
             if(entity is null)
             {
-                return BadRequest();
+                throw new BusinessRuleException("Error al crear Estudiante");
             }
             return Ok(true);
         }

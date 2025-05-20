@@ -1,4 +1,5 @@
 ﻿using Domain.API.DTOs.EstudianteMateria;
+using Domain.API.ExceptionHandlers;
 using Domain.API.Repositorios;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -22,7 +23,7 @@ namespace Presentation.API.Controllers
             var result = await _repo.RegistrarCreditos(entity);
             if (entity == null)
             {
-                return BadRequest("No se pudo crear el credito");
+                throw new  BusinessRuleException("No se pudo crear el credito");
             }
             return Ok(true);
         }

@@ -15,3 +15,4 @@ C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\Application.API\bin\Debu
 C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\Application.API\obj\Debug\net8.0\Applicat.A02B94F3.Up2Date
 C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\Application.API\bin\Debug\net8.0\InfraEstructura.API.dll
 C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\Application.API\bin\Debug\net8.0\InfraEstructura.API.pdb
+C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\Application.API\obj\Debug\net8.0\Application.API.sourcelink.json

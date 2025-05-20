@@ -13,3 +13,4 @@ C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\InfraEstructura.API\obj\
 C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\InfraEstructura.API\bin\Debug\net8.0\Domain.API.dll
 C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\InfraEstructura.API\bin\Debug\net8.0\Domain.API.pdb
 C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\InfraEstructura.API\obj\Debug\net8.0\InfraEst.7179014C.Up2Date
+C:\Users\USER\source\repos\InterRapidisimoTechnicalTest\InfraEstructura.API\obj\Debug\net8.0\InfraEstructura.API.sourcelink.json

@@ -42,8 +42,7 @@ namespace Application.API.Services
                     throw new InvalidOperationException("El estudiante ya está inscrito en esta materia.");
                 }
 
-                Console.WriteLine("Agregando nueva materia...");
-
+              
                 Console.WriteLine("Agregando nueva materia...");
                 var record = new EstudianteMaterias
                 {

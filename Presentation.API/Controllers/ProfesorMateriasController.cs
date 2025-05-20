@@ -1,4 +1,5 @@
 ﻿using Domain.API.DTOs;
+using Domain.API.ExceptionHandlers;
 using Domain.API.Repositorios.MateriaProfesor;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
@@ -33,7 +34,7 @@ namespace Presentation.API.Controllers
             var result = await _repo.VerTodosRegistros();
             if(result == null)
             {
-                return BadRequest("No hay registros creados");
+                throw new NotFoundException("No hay registros creados");
             }
             return Ok(result);
         }
@@ -43,7 +44,7 @@ namespace Presentation.API.Controllers
             var result = await _repo.VerTodosEstudiantes();
             if (result == null)
             {
-                return BadRequest("No hay estudiantes creados");
+                throw new NotFoundException("No hay estudiantes creados");
             }
             return Ok(result);
         }
@@ -53,7 +54,7 @@ namespace Presentation.API.Controllers
             var result = await _repo.VerTodosProfesores();
             if (result == null)
             {
-                return BadRequest("No hay profesores creados");
+                throw new NotFoundException("No hay profesores creados");
             }
             return Ok(result);
         }
@@ -63,7 +64,7 @@ namespace Presentation.API.Controllers
             var result = await _repo.VerTodosMaterias();
             if (result == null)
             {
-                return BadRequest("No hay materias creadas");
+                throw new NotFoundException("No hay materias creadas");
             }
             return Ok(result);
         }

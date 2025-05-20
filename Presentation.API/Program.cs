@@ -1,3 +1,4 @@
+using Application.API;
 using Application.API.Services;
 using Application.API.Services.Estudiantes;
 using Domain.API.Repositorios;
@@ -39,7 +40,7 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseCors("myPolicies");
 app.UseAuthorization();
-
+app.UseMiddleware<ErrorHandlingMiddleware>();
 app.MapControllers();
 
 app.Run();

@@ -3,16 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{68467B00-3EAC-4C2D-B90A-47E581B72F96}|Application.API\\Application.API.csproj|c:\\users\\user\\source\\repos\\interrapidisimotechnicaltest\\application.api\\services\\materiasprofesor\\materiaprofesorserrvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68467B00-3EAC-4C2D-B90A-47E581B72F96}|Application.API\\Application.API.csproj|solutionrelative:application.api\\services\\materiasprofesor\\materiaprofesorserrvice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA785BC-8C98-4C56-8970-358B12B6C048}|Presentation.API\\Presentation.API.csproj|c:\\users\\user\\source\\repos\\interrapidisimotechnicaltest\\presentation.api\\controllers\\estudiantemateriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA785BC-8C98-4C56-8970-358B12B6C048}|Presentation.API\\Presentation.API.csproj|solutionrelative:presentation.api\\controllers\\estudiantemateriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AEA785BC-8C98-4C56-8970-358B12B6C048}|Presentation.API\\Presentation.API.csproj|c:\\users\\user\\source\\repos\\interrapidisimotechnicaltest\\presentation.api\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AEA785BC-8C98-4C56-8970-358B12B6C048}|Presentation.API\\Presentation.API.csproj|solutionrelative:presentation.api\\controllers\\estudiantescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA785BC-8C98-4C56-8970-358B12B6C048}|Presentation.API\\Presentation.API.csproj|c:\\users\\user\\source\\repos\\interrapidisimotechnicaltest\\presentation.api\\controllers\\profesormateriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA785BC-8C98-4C56-8970-358B12B6C048}|Presentation.API\\Presentation.API.csproj|solutionrelative:presentation.api\\controllers\\profesormateriascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68467B00-3EAC-4C2D-B90A-47E581B72F96}|Application.API\\Application.API.csproj|c:\\users\\user\\source\\repos\\interrapidisimotechnicaltest\\application.api\\services\\estudiantes\\estudianteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68467B00-3EAC-4C2D-B90A-47E581B72F96}|Application.API\\Application.API.csproj|solutionrelative:application.api\\services\\estudiantes\\estudianteservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{646EE8C8-1BE2-4D1D-ADD9-B45EED9CAFD5}|Domain.API\\Domain.API.csproj|c:\\users\\user\\source\\repos\\interrapidisimotechnicaltest\\domain.api\\repositorios\\estudiantes\\iestudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{646EE8C8-1BE2-4D1D-ADD9-B45EED9CAFD5}|Domain.API\\Domain.API.csproj|solutionrelative:domain.api\\repositorios\\estudiantes\\iestudianterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68467B00-3EAC-4C2D-B90A-47E581B72F96}|Application.API\\Application.API.csproj|c:\\users\\user\\source\\repos\\interrapidisimotechnicaltest\\application.api\\services\\estudiantemateria\\estudiantemateriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68467B00-3EAC-4C2D-B90A-47E581B72F96}|Application.API\\Application.API.csproj|solutionrelative:application.api\\services\\estudiantemateria\\estudiantemateriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68467B00-3EAC-4C2D-B90A-47E581B72F96}|Application.API\\Application.API.csproj|c:\\users\\user\\source\\repos\\interrapidisimotechnicaltest\\application.api\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68467B00-3EAC-4C2D-B90A-47E581B72F96}|Application.API\\Application.API.csproj|solutionrelative:application.api\\errorhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA785BC-8C98-4C56-8970-358B12B6C048}|Presentation.API\\Presentation.API.csproj|c:\\users\\user\\source\\repos\\interrapidisimotechnicaltest\\presentation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AEA785BC-8C98-4C56-8970-358B12B6C048}|Presentation.API\\Presentation.API.csproj|solutionrelative:presentation.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEA785BC-8C98-4C56-8970-358B12B6C048}|Presentation.API\\Presentation.API.csproj|c:\\users\\user\\source\\repos\\interrapidisimotechnicaltest\\presentation.api\\presentation.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{AEA785BC-8C98-4C56-8970-358B12B6C048}|Presentation.API\\Presentation.API.csproj|solutionrelative:presentation.api\\presentation.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,44 +46,124 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "IEstudianteRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Domain.API\\Repositorios\\Estudiantes\\IEstudianteRepository.cs",
-              "RelativeDocumentMoniker": "Domain.API\\Repositorios\\Estudiantes\\IEstudianteRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Domain.API\\Repositorios\\Estudiantes\\IEstudianteRepository.cs",
-              "RelativeToolTip": "Domain.API\\Repositorios\\Estudiantes\\IEstudianteRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "ProfesorMateriasController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Presentation.API\\Controllers\\ProfesorMateriasController.cs",
+              "RelativeDocumentMoniker": "Presentation.API\\Controllers\\ProfesorMateriasController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Presentation.API\\Controllers\\ProfesorMateriasController.cs",
+              "RelativeToolTip": "Presentation.API\\Controllers\\ProfesorMateriasController.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAAACQAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:31:06.524Z"
+              "WhenOpened": "2025-05-20T21:20:41.316Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "EstudiantesController.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Presentation.API\\Controllers\\EstudiantesController.cs",
               "RelativeDocumentMoniker": "Presentation.API\\Controllers\\EstudiantesController.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Presentation.API\\Controllers\\EstudiantesController.cs",
               "RelativeToolTip": "Presentation.API\\Controllers\\EstudiantesController.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACIAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:25:07.026Z",
+              "WhenOpened": "2025-05-20T21:18:37.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EstudianteMateriasController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Presentation.API\\Controllers\\EstudianteMateriasController.cs",
+              "RelativeDocumentMoniker": "Presentation.API\\Controllers\\EstudianteMateriasController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Presentation.API\\Controllers\\EstudianteMateriasController.cs",
+              "RelativeToolTip": "Presentation.API\\Controllers\\EstudianteMateriasController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:18:29.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MateriaProfesorSerrvice.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Application.API\\Services\\Materiasprofesor\\MateriaProfesorSerrvice.cs",
+              "RelativeDocumentMoniker": "Application.API\\Services\\Materiasprofesor\\MateriaProfesorSerrvice.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Application.API\\Services\\Materiasprofesor\\MateriaProfesorSerrvice.cs",
+              "RelativeToolTip": "Application.API\\Services\\Materiasprofesor\\MateriaProfesorSerrvice.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:18:10.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "EstudianteService.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Application.API\\Services\\Estudiantes\\EstudianteService.cs",
               "RelativeDocumentMoniker": "Application.API\\Services\\Estudiantes\\EstudianteService.cs",
               "ToolTip": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Application.API\\Services\\Estudiantes\\EstudianteService.cs",
               "RelativeToolTip": "Application.API\\Services\\Estudiantes\\EstudianteService.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAvwCYAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAiwCYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T03:20:08.93Z"
+              "WhenOpened": "2025-05-20T21:17:57.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EstudianteMateriaService.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Application.API\\Services\\EstudianteMateria\\EstudianteMateriaService.cs",
+              "RelativeDocumentMoniker": "Application.API\\Services\\EstudianteMateria\\EstudianteMateriaService.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Application.API\\Services\\EstudianteMateria\\EstudianteMateriaService.cs",
+              "RelativeToolTip": "Application.API\\Services\\EstudianteMateria\\EstudianteMateriaService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:17:20.826Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Presentation.API\\Program.cs",
+              "RelativeDocumentMoniker": "Presentation.API\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Presentation.API\\Program.cs",
+              "RelativeToolTip": "Presentation.API\\Program.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAACoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:16:37.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Presentation.API",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Presentation.API\\Presentation.API.csproj",
+              "RelativeDocumentMoniker": "Presentation.API\\Presentation.API.csproj",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Presentation.API\\Presentation.API.csproj",
+              "RelativeToolTip": "Presentation.API\\Presentation.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T21:16:32.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Application.API\\ErrorHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "Application.API\\ErrorHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\InterRapidisimoTechnicalTest\\Application.API\\ErrorHandlingMiddleware.cs",
+              "RelativeToolTip": "Application.API\\ErrorHandlingMiddleware.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAwwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:15:05.781Z",
+              "EditorCaption": ""
             }
           ]
         }
